@@ -1,0 +1,12 @@
+{
+    "name": "yehuda/oop-praktikum-10",
+    "description": "Praktikum 10 Pemrograman Web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yehuda21",
+            "email": "yehuda1923@gmail.com"
+        }
+    ],
+    "require": {}
+}
